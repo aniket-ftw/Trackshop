@@ -1,0 +1,11 @@
+TRACKSHOP – GA4 PRACTICE STORE
+
+A demo store for learning ecommerce tracking.
+Browse six fake products, add items to your cart, and complete a pretend checkout.
+Use TRACK10 for a 10% demo discount.
+
+Open the Analytics Debug Panel to inspect local events.
+Install your own GTM snippets to connect events to GA4.
+No real orders, payments, or messages are sent.
+
+Practice: view_item_list, select_item, view_item, add_to_cart, remove_from_cart, view_cart, begin_checkout, add_shipping_info, add_payment_info, purchase.
